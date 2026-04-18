@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="mailto:samriddhapathak123333@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/samriddhapathak">LinkedIn</a> ·
+  <a href="www.linkedin.com/in/samriddha-pathak-8b4b60341">LinkedIn</a> ·
   <a href="https://orcid.org/0009-0009-4587-4645">ORCID</a> ·
-  <a href="#">Google Scholar</a> ·
-  <a href="#">ResearchGate</a>
+  <a href="https://scholar.google.com/citations?user=xRBrPYUAAAAJ&hl=en">Google Scholar</a> ·
+  <a href="https://www.researchgate.net/profile/Samriddha-Pathak-3?ev=hdr_xprf">ResearchGate</a>
 </p>
 
 ---
