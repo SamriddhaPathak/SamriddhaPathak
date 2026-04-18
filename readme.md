@@ -14,7 +14,7 @@
 
 ---
 
-Research-oriented AI practitioner working on ML, deep learning, computer vision, and algorithmic optimization. B.Sc. CSIT student at Central Campus of Technology. Currently interning at **CAIR Nepal** on misinformation detection using Knowledge Graphs & Explainable AI, and teaching ML at **Digital Pathshala** (60+ students).
+Research-oriented AI practitioner working on ML, deep learning, computer vision, and algorithmic optimization. B.Sc. CSIT student at Central Campus of Technology. Currently interning at **CAIR Nepal** on misinformation detection using Knowledge Graphs & Explainable AI, and teaching ML at **Digital Pathshala**.
 
 ## 📄 Publications
 
