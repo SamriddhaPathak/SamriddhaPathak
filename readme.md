@@ -30,7 +30,3 @@ Research-oriented AI practitioner working on ML, deep learning, computer vision,
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samriddhapathak&" alt="samriddhapathak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samriddhapathak&theme=minimal" alt="Contribution Graph" />
-</p>
