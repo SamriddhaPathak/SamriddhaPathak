@@ -1,7 +1,7 @@
 <h1 align="center">Samriddha Pathak</h1>
 
 <p align="center">
-  AI Researcher · ML Instructor · Computer Vision · Knowledge Representation and Reasoning · Dharan, Nepal 🇳🇵
+  AI Researcher · ML Instructor · Computer Vision · Knowledge Representation · Dharan, Nepal 🇳🇵
 </p>
 
 <p align="center">
