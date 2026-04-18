@@ -23,7 +23,7 @@ Research-oriented AI practitioner working on ML, deep learning, computer vision,
 
 ## 🛠️ Stack
 
-`Python` `PyTorch` `OpenCV` `NumPy` `Pandas` `Django` `FastAPI` `C/C++` `SQL` `Rust` `LaTeX`
+`Python` `PyTorch` `OpenCV` `NumPy` `Pandas` `Django` `FastAPI` `C/C++` `SQL` `LaTeX`
 
 ---
 
