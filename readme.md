@@ -1,7 +1,7 @@
 <h1 align="center">Samriddha Pathak</h1>
 
 <p align="center">
-  AI Researcher · ML Instructor · Computer Vision · Dharan, Nepal 🇳🇵
+  AI Researcher · ML Instructor · Computer Vision · Knowledge Representation and Reasoning · Dharan, Nepal 🇳🇵
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-Research-oriented AI practitioner working on ML, deep learning, computer vision, and algorithmic optimization. B.Sc. CSIT student at Central Campus of Technology. Currently interning at **CAIR Nepal** on misinformation detection using Knowledge Graphs, Graph Neural Networks & Explainable AI, and teaching ML at **Digital Pathshala**.
+Research-oriented AI practitioner working on ML, deep learning, computer vision, and algorithmic optimization. B.Sc. CSIT student at Central Campus of Technology. Currently interning at **CAIR Nepal** on misinformation detection using Knowledge Graphs, Graph Neural Networks & Explainable AI. ML Instructor at **Digital Pathshala**.
 
 ## 📄 Publications
 
